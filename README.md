@@ -7,8 +7,7 @@ The project demonstrates the complete ML workflow — from data analysis to mode
 ---
 
 ## 🚀 Live Demo
-🔗 https://your-app-name.streamlit.app  
-*(Replace this with your actual deployment link)*
+🔗 https://student-performance-predictor01.streamlit.app/
 
 ---
 
@@ -74,10 +73,44 @@ student-performance-predictor/
 
 ---
 
-## ▶️ How to Run Locally
+## ▶️ Run the Project Locally
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/student-performance-predictor.git
+Follow these steps to clone and run the project on your local machine.
+
+### 1️⃣ Clone the Repository
+Open your terminal or command prompt and run:
+
+```bash
+git clone https://github.com/gohil-gaurav/student-performance-predictor.git
+
+### 2️⃣ Navigate to the Project Folder
+cd student-performance-predictor
+
+### 3️⃣ Install Required Dependencies
+pip install -r requirements.txt
+
+### 4️⃣ Run the Streamlit App
+streamlit run app.py
+
+### 5️⃣ Open in Browser
+After running the command, Streamlit will open the app automatically.
+If not, open this URL in your browser:
+
+http://localhost:8501
+
+
+---
+
+### ✅ How to Use It
+1. Copy **everything inside the grey box**
+2. Paste it into `README.md`
+3. Save & commit
+
+If you want, I can now:
+- Combine this with your **full README**
+- Add **deployment steps**
+- Review final README before posting
+
+Just tell me 👍
 
 
