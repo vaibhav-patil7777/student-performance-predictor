@@ -17,6 +17,25 @@ st.set_page_config(
 # Custom CSS for cards
 st.markdown("""
 <style>
+/* Hide Share button */
+button[title="Share"] {
+    display: none;
+}
+
+/* Hide Star button */
+button[title="Star"] {
+    display: none;
+}
+
+/* Hide Edit button */
+button[title="Edit"] {
+    display: none;
+}
+
+/* Hide GitHub button */
+a[title="View source on GitHub"] {
+    display: none;
+}
 .card {
     background-color: #1e1e2f;
     padding: 25px;
