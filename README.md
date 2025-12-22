@@ -73,62 +73,7 @@ student-performance-predictor/
 
 ---
 
-## ▶️ Run the Project Locally
-
-Follow these steps to clone and run the project on your local machine.
-
-### 1️⃣ Clone the Repository
+### ▶️ Clone the Repository
 ```bash
 git clone https://github.com/gohil-gaurav/student-performance-predictor.git
-
-
-2️⃣ Navigate to the Project Folder
-cd student-performance-predictor
-
-3️⃣ Create a Virtual Environment (Optional but Recommended)
-python -m venv venv
-
-
-Activate the virtual environment:
-
-Windows
-
-venv\Scripts\activate
-
-
-Mac / Linux
-
-source venv/bin/activate
-
-4️⃣ Install Required Dependencies
-pip install -r requirements.txt
-
-5️⃣ Run the Streamlit App
-streamlit run app.py
-
-6️⃣ Open in Browser
-
-After running the command, Streamlit will open the app automatically.
-If not, open this URL in your browser:
-
-http://localhost:8501
-
-
-✅ Now you can interact with the Student Performance Predictor locally.
-
-
----
-
-### ✅ How to Use It
-1. Copy **everything inside the grey box**
-2. Paste it into `README.md`
-3. Save & commit
-
-If you want, I can now:
-- Combine this with your **full README**
-- Add **deployment steps**
-- Review final README before posting
-
-Just tell me 👍
-
 
