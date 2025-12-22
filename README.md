@@ -28,7 +28,6 @@ student-performance-predictor/
 ├── model/ # Saved trained ML model (.pkl file)
 ├── requirements.txt # Project dependencies
 └── README.md # Project documentation
-
 ---
 
 ## 🧠 Machine Learning Workflow
