@@ -20,15 +20,17 @@ It is designed as a **beginner-friendly ML project** with a clean UI and practic
 ---
 
 ## 🗂️ Project Structure
+
+```text
 student-performance-predictor/
 │
-├── app.py # Streamlit web application
-├── student_eda.ipynb # Data analysis & model experimentation
-├── data/ # Dataset used for training (CSV file)
-├── model/ # Saved trained ML model (.pkl file)
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
-
+├── app.py                   # Streamlit web application
+├── student_eda.ipynb        # Data analysis & model experimentation
+├── data/                    # Dataset used for training (CSV file)
+├── model/                   # Saved trained ML model (.pkl file)
+├── requirements.txt         # Project dependencies
+└── README.md                # Project documentation
+```
 ---
 
 ## 🧠 Machine Learning Workflow
