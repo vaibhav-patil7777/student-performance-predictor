@@ -73,6 +73,15 @@ student-performance-predictor/
 
 ---
 
+## ▶️ Run the Project Locally
+
+Follow these steps to clone and run the project on your local machine.
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/gohil-gaurav/student-performance-predictor.git
+
+
 2️⃣ Navigate to the Project Folder
 cd student-performance-predictor
 
