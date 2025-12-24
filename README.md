@@ -7,8 +7,7 @@ The project demonstrates the complete ML workflow — from data analysis to mode
 ---
 
 ## 🚀 Live Demo
-🔗 https://student-performance-predictor01.streamlit.app/
-
+🔗 
 ---
 
 ## 📌 Project Overview
@@ -75,5 +74,4 @@ student-performance-predictor/
 
 ### ▶️ Clone the Repository
 ```bash
-git clone https://github.com/gohil-gaurav/student-performance-predictor.git
-
+git clone https://github.com/vaibhav-patil7777/student-performance-predictor.git
