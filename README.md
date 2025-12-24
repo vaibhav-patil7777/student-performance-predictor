@@ -7,7 +7,7 @@ The project demonstrates the complete ML workflow — from data analysis to mode
 ---
 
 ## 🚀 Live Demo
-🔗 
+🔗 https://student-performance-predictor-web.streamlit.app/
 ---
 
 ## 📌 Project Overview
